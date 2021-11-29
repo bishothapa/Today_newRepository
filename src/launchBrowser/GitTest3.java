@@ -6,7 +6,7 @@ public class GitTest3 {
 		 
 		System.out.println("Git Test Today 1");
 		System.out.println("Git Test Tomorrow ok");
-		System.out.println("Git Test The day after ");
+		System.out.println("Git Test The day after working fine");
 
 	}
 
